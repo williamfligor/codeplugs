@@ -1,9 +1,46 @@
 Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
-Analog-PHL,APRS-2m,25K,High,144.39,144.39,Off,Off,Off
-Analog-PHL,W3QV,25K,High,147.03,147.63,91.5,91.5,Off
-Analog-PHL,W3WAN,25K,High,441.7,446.7,74.4,74.4,Off
-Analog-PHL,W3PHL (U),25K,High,421.25,439.25,131.8,131.8,Off
-Analog-PHL,W3PHL (V),25K,High,146.76,146.16,Off,131.8,Off
-Analog-PHL,WM3PEN,25K,High,146.685,146.085,146.2,146.2,Off
-Analog-PHL,2m Calling,25K,High,146.52,146.52,Off,Off,Off
-Analog-PHL,70cm Calling,25K,High,446,446,Off,Off,Off
+Analog-PHL,2MSIMP (V),25K,High,146.52,146.52,Off,Off,Off
+Analog-PHL,W3QV (V),25K,High,147.03,147.63,91.5,91.5,Off
+Analog-PHL,N3ZA (V),25K,High,145.19,144.59,131.8,131.8,Off
+Analog-PHL,W3AI (V),25K,High,145.31,144.71,Off,88.5,Off
+Analog-PHL,W3HJ (V),25K,High,145.33,144.73,Off,88.5,Off
+Analog-PHL,WA3EPA (V),25K,High,145.35,144.75,Off,88.5,Off
+Analog-PHL,KD3WT (V),25K,High,145.41,144.81,Off,88.5,Off
+Analog-PHL,WM3PEN (V),25K,High,146.685,146.085,146.2,146.2,Off
+Analog-PHL,W3PHL (V),25K,High,146.76,146.16,Off,88.5,Off
+Analog-PHL,W3SK (V),25K,High,146.79,146.19,131.8,131.8,Off
+Analog-PHL,AA3E (V),25K,High,146.835,146.235,Off,88.5,Off
+Analog-PHL,K3DN (V),25K,High,147.09,147.69,Off,88.5,Off
+Analog-PHL,PAARC (V),25K,High,147.21,147.81,131.8,131.8,Off
+Analog-PHL,W3BXW (V),25K,High,147.3,147.9,131.8,131.8,Off
+Analog-PHL,SAR EMT (V),25K,High,155.16,155.16,Off,88.5,Off
+Analog-PHL,70SIMP (U),25K,High,446,446,Off,Off,Off
+Analog-PHL,K3DN (U),25K,High,441.15,446.15,Off,88.5,Off
+Analog-PHL,W3WAN (U),25K,High,441.7,446.7,Off,88.5,Off
+Analog-PHL,N3KZ (U),25K,High,442.4,447.4,Off,88.5,Off
+Analog-PHL,W3SBE (U),25K,High,442.55,447.55,91.5,91.5,Off
+Analog-PHL,K3TU (U),25K,High,442.8,442.8,Off,88.5,Off
+Analog-PHL,W3HJ (U),25K,High,442.9,447.9,Off,88.5,Off
+Analog-PHL,K3DN (U),25K,High,443.95,448.95,Off,88.5,Off
+Analog-PHL,WA3TSW (U),25K,High,444.55,449.55,Off,88.5,Off
+Analog-PHL,W3AI (U),25K,High,444.75,449.75,103.5,103.5,Off
+Analog-PHL,W3PS (U),25K,High,445.825,440.825,Off,88.5,Off
+Analog-PHL,KD3WT (U),25K,High,446.875,441.875,131.8,131.8,Off
+Analog-PHL,KB3AJF (U),25K,High,447.975,442.975,Off,88.5,Off
+Analog-PHL,W3SK (U),25K,High,448.225,443.225,131.8,131.8,Off
+Analog-PHL,N3CB (U),25K,High,448.675,443.675,131.8,131.8,Off
+Analog-PHL,AA3E (U),25K,High,449.125,444.125,Off,88.5,Off
+Analog-PHL,N3EXA (U),25K,High,449.725,444.725,Off,88.5,Off
+Analog-PHL,K3CX (U),25K,High,449.925,444.925,100.0,100.0,Off
+Analog-PHL,SEPTAN (V),25K,High,160.59,160.59,Off,Off,On
+Analog-PHL,SEPTAC (V),25K,High,160.38,160.38,Off,Off,On
+Analog-PHL,GMRS 15 (U),25K,High,462.55,462.55,Off,Off,On
+Analog-PHL,GMRS 16 (U),25K,High,462.575,462.575,Off,Off,On
+Analog-PHL,GMRS 17 (U),25K,High,462.6,462.6,Off,Off,On
+Analog-PHL,GMRS 18 (U),25K,High,462.625,462.625,Off,Off,On
+Analog-PHL,GMRS 19 (U),25K,High,462.65,462.65,Off,Off,On
+Analog-PHL,GMRS 20 (U),25K,High,462.675,462.675,Off,Off,On
+Analog-PHL,GMRS 21 (U),25K,High,462.7,462.7,Off,Off,On
+Analog-PHL,GMRS 22 (U),25K,High,462.725,462.725,Off,Off,On
+Analog-PHL,CYCLE1 (U),25K,High,462.7,462.7,Off,88.5,Off
+Analog-PHL,CYCLE2 (U),25K,High,462.725,462.725,Off,88.5,Off
