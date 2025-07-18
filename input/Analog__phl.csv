@@ -1,0 +1,9 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+Analog-PHL,APRS-2m,25K,High,144.39,144.39,Off,Off,Off
+Analog-PHL,W3QV,25K,High,147.03,147.63,91.5,91.5,Off
+Analog-PHL,W3WAN,25K,High,441.7,446.7,74.4,74.4,Off
+Analog-PHL,W3PHL (U),25K,High,421.25,439.25,131.8,131.8,Off
+Analog-PHL,W3PHL (V),25K,High,146.76,146.16,Off,131.8,Off
+Analog-PHL,WM3PEN,25K,High,146.685,146.085,146.2,146.2,Off
+Analog-PHL,2m Calling,25K,High,146.52,146.52,Off,Off,Off
+Analog-PHL,70cm Calling,25K,High,446,446,Off,Off,Off

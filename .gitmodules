@@ -1,0 +1,3 @@
+[submodule "cps-import-builder"]
+	path = cps-import-builder
+	url = https://github.com/williamfligor/cps-import-builder.git
